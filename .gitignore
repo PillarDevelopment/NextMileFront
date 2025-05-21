@@ -40,3 +40,4 @@ app-example
 .vscode/settings.json
 package-lock.json
 .env
+.vercel
